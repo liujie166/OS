@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "scheduler.h": "c",
+        "type.h": "c",
+        "print.h": "c",
+        "printk.h": "c",
+        "printf.h": "c",
+        "common.h": "c",
+        "debug.h": "c",
+        "string.h": "c",
+        "vargs.h": "c",
+        "sched.h": "c",
+        "type_traits": "c",
+        "utils.h": "c",
+        "lock.h": "c",
+        "th.h": "c",
+        "syscall.h": "c",
+        "interrupt.h": "c",
+        "screen.h": "c",
+        "plist.h": "c",
+        "queue.h": "c",
+        "irq.h": "c",
+        "exception": "c",
+        "test.h": "c",
+        "stdarg.h": "c"
+    }
+}
